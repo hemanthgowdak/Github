@@ -45,3 +45,11 @@ Git pull origin master
 git add .
 git commit -m "style changes to css"
 git push origin master
+
+
+
+--Git Push Branch
+git push --set-upstream origin (BranchName)
+Git add .
+Git commit -m "file"
+Git push origin BranchNAme
