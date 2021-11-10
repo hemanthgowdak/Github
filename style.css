@@ -1,3 +1,11 @@
 a{
 color:"red"
 }
+
+p{
+    color: brown;
+}
+
+li{
+    font-style: italic;
+}
